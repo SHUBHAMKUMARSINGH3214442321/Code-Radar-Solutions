@@ -5,5 +5,5 @@ int main(){
     char str2;
     scanf("%s",&str2)
     printf("%s %s",str1,str2);
-    return 0;
+    return 0;
 }
