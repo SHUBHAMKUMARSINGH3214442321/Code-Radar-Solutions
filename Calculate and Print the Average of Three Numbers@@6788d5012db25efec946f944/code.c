@@ -9,5 +9,5 @@ int main(){
     int avg = (a+b+c)/3;
     print("Average: %d",avg);
 
-    return 0;
+    return 0;
 }
