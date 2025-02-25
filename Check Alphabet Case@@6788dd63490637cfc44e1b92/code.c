@@ -7,11 +7,11 @@ int main() {
     scanf("%c", &ch);
     
     if (islower(ch)) {
-        printf("Lower case character\n");
+        printf("Lowercase\n");
     } else if (isupper(ch)) {
-        printf("Upper case character\n");
+        printf("Uppercase\n");
     } else {
-        printf("Not an alphabetic character\n");
+        printf("Not an alphabet\n");
     }
 
     return 0;
