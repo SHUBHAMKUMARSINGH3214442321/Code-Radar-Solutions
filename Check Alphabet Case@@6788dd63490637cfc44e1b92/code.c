@@ -3,7 +3,7 @@
 
 int main() {
     char ch;
-    printf("Enter a character: ");
+    printf();
     scanf("%c", &ch);
     
     if (islower(ch)) {
