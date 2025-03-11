@@ -20,9 +20,9 @@ int main() {
     scanf("%d", &number);
 
     if (isPrime(number)) {
-        printf("%d is a prime number.\n", number);
+        printf("%Prime\n", number);
     } else {
-        printf("%d is not a prime number.\n", number);
+        printf("%d Not Prime\n", number);
     }
 
     return 0;
