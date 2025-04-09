@@ -42,7 +42,7 @@ int main() {
 
     rotateArray(arr, n, d);
 
-    printf("Array after rotation by %d positions: ", d);
+    printf(" %d: ", d);
     printArray(arr, n);
 
     return 0;
